@@ -100,3 +100,8 @@ FROM miTabla;
 
 REVERT;
 GO
+
+
+
+
+-- La spalabras clave son GRANT para conceder permisos y REVOKE para quitarlos
